@@ -1,6 +1,6 @@
 body
 {
-background-color: 	#808080;
+background-color: 	#6600FF;
 font-family: Verdana;
 font-size: 24px;
 color: white;
@@ -11,41 +11,41 @@ color: white;
 	padding-left: 10px;
 	padding-right: 10px;
 	padding-bottom:50px;
-	background-color: #C0C0C0;
+	background-color: #9999FF;
 	margin: auto;
     width: 1000px;
 }
 #aktualnaData
 {
 	  text-align: center;
-    border: 3px solid #808080;
+    border: 3px solid #000066;
 }
 #dniDoWydarzenia
 {
 	  text-align: center;
-    border: 3px solid #808080;
+    border: 3px solid #000066;
 }
 #doWydarzenia
 {
 	  text-align: center;
-    border: 3px solid #808080;
+    border: 3px solid #000066;
 }
 
 #dataWydarzenia
 {
 	  text-align: center;
-    border: 3px solid #808080;
+    border: 3px solid #000066;
 }
 
 #description
 {
 	text-align: center;
-	border: 3px solid #808080;
+	border: 3px solid #000066;
 }
 
 #footer
 {
-	color: #808080;
+	color: #000066;
 	margin-top: 50px;
 	padding: 10px;
 	font-size: 12px;
@@ -56,7 +56,7 @@ color: white;
 #topBar
 {
 	
-	color: #808080;
+	color: #000066;
 	padding: 10px;
 	font-size: 18px;
 	text-align: center;
